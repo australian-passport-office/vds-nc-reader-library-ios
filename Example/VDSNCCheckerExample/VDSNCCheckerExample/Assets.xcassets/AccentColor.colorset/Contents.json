@@ -1,0 +1,11 @@
+{
+  "colors" : [
+    {
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "au.gov.dfat.vdsncchecker.example",
+    "version" : 1
+  }
+}
